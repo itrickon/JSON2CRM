@@ -3,6 +3,10 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Config files with sensitive data
+config.py
+
+JSON2CRM.exe
 # C extensions
 *.so
 
